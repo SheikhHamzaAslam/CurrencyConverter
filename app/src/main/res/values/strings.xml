@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="eur_hint">Enter your amount here</string>
+    <string name="eur">EUR</string>
+    <string name="usd">PKR</string>
+    <string name="_6162966">61,629.66</string>
+    <string name="one_eur_to_pkr">1 EUR = %f</string>
+    <string name="one_cur_to_eur">%f EUR</string>
+</resources>
